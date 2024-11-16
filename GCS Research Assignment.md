@@ -45,7 +45,7 @@ To implement, I need (probably):
 and naturally integration of those systems on UAV physically.
 #### What technologies do I need to learn?
 
-I should learn all of those substances below. Additionally I should work on Python for data analysis and C++ for.
+I should learn all of those substances below. Additionally I should work on Python for data analysis and C++.
 
 #### What libraries/frameworks can help me achieve this? 
 
