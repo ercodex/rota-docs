@@ -4,7 +4,7 @@ We need a lot of images. So let's start.
 
 First, I searched on YouTube. Finding how to search about what I want was not clear at first. So, I went right into public datasets. Some screenshots were containing the name of the videos. I searched these videos and started taking screenshots.
 
-In assignment, It is wanted from me to collect videos. I took it as a second step. And since videos are formed from tens of thousands of images. First step is to detect from images. I am planning to evaluate the model on a video though.
+In assignment, It is wanted from me to collect videos. I took it as a second step. And since videos are formed from tens of thousands of images, first step is to detect from images. I am planning to evaluate the model on a video though.
 
 After some cleaning, dataset is over. I collected nearly 750 images from different sources. Sources will be provided if wanted. Next part is, labeling.
 
